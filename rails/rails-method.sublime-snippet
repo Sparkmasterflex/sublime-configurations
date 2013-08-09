@@ -1,5 +1,5 @@
 <!--
-  Quickly print out CoffeeScript method with standard comments
+  Quickly print out Ruby method with standard comments
     Tabbed:
       1. Description
       2. Parameters
@@ -8,7 +8,7 @@
       5. Method Arguments
       6. Method Code
 
-    Triggered: meth
+    Triggered: def
 -->
 <snippet>
   <content><![CDATA[
@@ -19,11 +19,12 @@
 #
 # ==== Returns:
 # ${3:returns}
-${4:method_name} = (${5:arguments}) ->
+def ${4:method_name} ${5:arguments}
   ${6:# code here}
+end
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-  <tabTrigger>meth</tabTrigger>
+  <tabTrigger>def</tabTrigger>
   <!-- Optional: Set a scope to limit where the snippet will trigger -->
   <!-- <scope>source.python</scope> -->
 </snippet>

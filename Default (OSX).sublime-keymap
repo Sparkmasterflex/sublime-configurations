@@ -1,0 +1,11 @@
+[
+  // duplicates current line, does not have to be selected
+  { "keys": ["super+alt+down"], "command": "duplicate_line" },
+
+  // move entire line up or down
+  { "keys": ["alt+up"], "command": "swap_line_up" },
+  { "keys": ["alt+down"], "command": "swap_line_down" },
+
+  // goto line number
+  { "keys": ["super+l"], "command": "show_overlay", "args": {"overlay": "goto", "text": ":"} }
+]

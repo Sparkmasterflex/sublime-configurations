@@ -1,6 +1,14 @@
+<!--
+  This is a snippet to quickly print out the RoR logger
+    Tabbed areas
+      1. Label to describe what's being logged
+      2. Object being logged
+
+    Triggered: log
+-->
 <snippet>
   <content><![CDATA[
-Rails.logger.info "==== ${1:hello}: #{${2:this}} ===="
+Rails.logger.info "==== ${1:label}: #{${2:to_log}.inspect} ===="
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
   <tabTrigger>log</tabTrigger>

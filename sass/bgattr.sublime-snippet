@@ -1,3 +1,12 @@
+<!--
+  Quickly print out all common background attributes
+    Tabbed areas
+      1. image url
+      2. repeat -> default 'no-repeat'
+      2. position -> default 'center center'
+
+    Triggered: bgattr
+-->
 <snippet>
   <content><![CDATA[
 background-image: url(${1:/images/*.png});
