@@ -19,9 +19,8 @@
 #
 # ==== Returns:
 # ${3:returns}
-def ${4:method_name} ${5:arguments}
+${4:method_name} = (${5:arguments}) ->
   ${6:# code here}
-end
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
   <tabTrigger>def</tabTrigger>
