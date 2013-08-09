@@ -65,13 +65,13 @@ works with:
 
 produces:
 <pre>
-  /* ${1:Description}
+  /* Description
    *
    * ==== Parameters:
-   * ${2:param:: Class}
+   * param:: Class
    *
    * ==== Returns:
-   */ ${3:returns}
+   */ returns
 </pre>
 
 ## coffee-method.sublime-snippet
