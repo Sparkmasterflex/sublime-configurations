@@ -11,7 +11,7 @@ Syync LLC's Sublime Text 2 Configuration files
 * coffeescript
   ** coffee-method.sublime-snippet
 * rails
-** rails-logger.sublime-snippet
-** rails-method.sublime-snippet
+  ** rails-logger.sublime-snippet
+  ** rails-method.sublime-snippet
 * sass
-** bgattr.sublime-snippet
+  ** bgattr.sublime-snippet
