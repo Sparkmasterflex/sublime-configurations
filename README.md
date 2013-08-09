@@ -75,7 +75,7 @@ produces:
 </pre>
 
 ## coffee-method.sublime-snippet
-trigger: 'meth', tab
+trigger: 'c-', tab
 
 produces:
 <pre>
