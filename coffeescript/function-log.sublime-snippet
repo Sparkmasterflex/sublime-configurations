@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-console.log("${1:function name} motha fucka! do you call it?!")
+console.log("${1:function name} motha fucka! Do you call it?!")
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
   <tabTrigger>fnlog</tabTrigger>
