@@ -1,7 +1,7 @@
 sublime-configurations
 ======================
 
-Syync LLC's Sublime Text 2 Configuration files
+My Configuration files
 
 ## Files Included
 
@@ -89,3 +89,19 @@ produces:
   method_name = (arguments) ->
     # code here
 </pre>
+
+## Packages
+
+* Alignment
+* Better CoffeeScript
+* BufferScroll
+* CJSX Syntax
+* Emmet
+* File Rename
+* JSX
+* MarkdownEditing
+* MarkdownPreview
+* Pretty JSON
+* Rails Migration List
+* Sass
+* Vintage Surround
