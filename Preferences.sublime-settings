@@ -1,19 +1,18 @@
 {
-	// in sidebar bolds folders for easier quick glance recognition
+	"auto_complete": false,
 	"bold_folder_labels": true,
-	"font_size": 12.0,
+	"caret_style": "wide",
+	"color_scheme": "Packages/Color Scheme - Default/Mariana.tmTheme",
+	"font_size": 15,
 	"ignored_packages":
 	[
-		"Vintage"
 	],
-	// can scroll page past last line of code
 	"scroll_past_end": true,
+	"show_definitions": false,
 	"spell_check": true,
-
-	// Tab Handling
 	"tab_size": 2,
+	"theme": "Default.sublime-theme",
 	"translate_tabs_to_spaces": true,
-
-	// on save all whites space on end of lines will be removed
-	"trim_trailing_white_space_on_save": true
+	"trim_trailing_white_space_on_save": true,
+	"vintage_start_in_command_mode": true
 }
