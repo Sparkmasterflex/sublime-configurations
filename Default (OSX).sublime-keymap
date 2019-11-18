@@ -4,6 +4,7 @@
   { "keys": ["alt+up"], "command": "swap_line_up" },
   { "keys": ["alt+down"], "command": "swap_line_down" },
   { "keys": ["super+'"], "command": "move_to", "args": {"to": "hardeol", "extend": false} },
+  { "keys": ["super+shift+'"], "command": "move_to", "args": {"to": "bol", "extend": false} },
 
   // command + # goes to window
   { "keys": ["super+1"], "command": "focus_group", "args": { "group": 0 } },
@@ -27,4 +28,4 @@
   { "keys": ["ctrl+8"], "command": "select_by_index", "args": { "index": 7 } },
   { "keys": ["ctrl+9"], "command": "select_by_index", "args": { "index": 8 } },
   { "keys": ["ctrl+0"], "command": "select_by_index", "args": { "index": 9 } },
-]
+ ]
